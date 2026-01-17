@@ -4,4 +4,6 @@
 
 ## purpose
 
-## How to use git 
+## How to use git working 
+
+## How does it work. 
